@@ -1,0 +1,3 @@
+orbd -ORBInitialPort 1050
+java ReverseServer -ORBInitialPort 1050
+java ReverseClient -ORBInitialPort 1050
